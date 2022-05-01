@@ -1,4 +1,4 @@
-![image](https://www.kdnuggets.com/images/data-science-machine-learning-412.jpg)
+![image](https://www.researchgate.net/profile/Andrzej-Szymkowiak/publication/340620896/figure/fig4/AS:880165060104196@1586859111567/Artificial-intelligence-machine-learning-and-data-science-Retrieved-from-Data-Science.png)
 # INDE577-Rice-University @ Spring 2022
 ---
 
