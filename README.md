@@ -9,19 +9,19 @@ This repository is for code assignments of course INDE577, Data Science and Mach
 
 ---
 ## Topic covering:
-*Supervised Learning:
- *Model Building and Error Analysis
- *Linear Regression
- *Gradient Descent
- *Logistic Regression
- *Neural Nets
- *Support Vector Machines
- *k-Nearest Neighbors
- *Decision/ Regression Trees
- *Ensemble Learning
-*Unsupervised Learning:
- *k-Means Clustering
- *Principal Component Analysis
+* Supervised Learning:
+ * Model Building and Error Analysis
+ * Linear Regression
+ * Gradient Descent
+ * Logistic Regression
+ * Neural Nets
+ * Support Vector Machines
+ * k-Nearest Neighbors
+ * Decision/ Regression Trees
+ * Ensemble Learning
+* Unsupervised Learning:
+ * k-Means Clustering
+ * Principal Component Analysis
 * Optimization methods
  * Gradient Descent
 * Model Comparison
