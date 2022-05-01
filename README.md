@@ -1,4 +1,4 @@
-# INDE577-Rice-University @ Rice University Fall 2021
+# INDE577-Rice-University @ Spring 2022
 ---
 
 By [Yuqi Wang](https://github.com/YuqiWang98).
