@@ -1,3 +1,4 @@
+![image](https://www.kdnuggets.com/images/data-science-machine-learning-412.jpg)
 # INDE577-Rice-University @ Spring 2022
 ---
 
@@ -5,7 +6,7 @@ By [Yuqi Wang](https://github.com/YuqiWang98).
 
 ---
 ## Course Description: 
-This repository is for code assignments of course INDE577, Data Science and Machine Learning, of Rice University in Spring 2022.This data science course covers algorithms from supervised learning, unsupervised learning, and reinforcement learning. We will implement many of the machine learning algorithms from scratch, but will also make use of the Skikit-Learn and Tensorflow libraries.
+This GitHub repository is a collection of the projects in the course, INDE 577: Data Science and Machine Learning, in Rice University. This data science course focuses on the topics in machine learning. The topics covers the algorithms from supervised learning and unsupervised learning. The key feature of this course is that instead of using well-established packages, we build up algorithms from scratch. In this process, we learned all the details of the algorithms including basic concepts, computational steps, model design, and evaluation metrics. 
 
 ---
 ## Topic covering:
