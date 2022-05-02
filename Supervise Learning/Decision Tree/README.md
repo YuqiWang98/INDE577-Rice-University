@@ -70,5 +70,5 @@ Based on these four terms, we can also calculate the Accuracy, Recall, Precious,
 
 ## Datasets
 * Personal Key Indicators of Heart Disease
-** The dataset contains 18 variables (9 booleans, 5 strings and 4 decimals). In machine learning projects, "HeartDisease" can be used as the explonatory variable, but note that the classes are heavily unbalanced.
+  The dataset contains 18 variables (9 booleans, 5 strings and 4 decimals). In machine learning projects, "HeartDisease" can be used as the explonatory variable, but note that the classes are heavily unbalanced.
 
