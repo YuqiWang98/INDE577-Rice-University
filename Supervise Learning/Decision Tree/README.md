@@ -2,26 +2,6 @@
 ![image](https://regenerativetoday.com/wp-content/uploads/2022/04/dt.png)
 This sub-repository mainly focuses on using Decision Tree Algorithm to solve classification problems.
 
----
-## File descriptions
-"Decision_Tree.ipynb" contains the describtion and coding of applications of decision tree algorithm.
-
-Outline:
-- Introduction
-- Algorithm
-    - Steps for creating a decision tree
-    - Information Gain (IG)
-    - The Formula of Inpurity of a node
-        - Entropy
-        - Gini Impurity
-- Illustration
-- Advantages and Disadvantages
-    - Advantages
-    - Disadvantages
-- Code and Applications on data sets
-    - Classification problem
-    - Regression problem
-- Reference
 
 ---
 
