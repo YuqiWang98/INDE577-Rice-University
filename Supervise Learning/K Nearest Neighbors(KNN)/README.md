@@ -1,5 +1,7 @@
 ## K Nearest Neighbors (KNN)
 
+This repository represents the implementation and applications of K-Nearest Neighbors(KNN).
+
 ---
 ![image](https://miro.medium.com/max/753/0*jqxx3-dJqFjXD6FA)
 
