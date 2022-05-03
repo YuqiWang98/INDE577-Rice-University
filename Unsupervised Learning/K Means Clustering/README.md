@@ -7,6 +7,8 @@ This sub-repository mainly focuses on using K Means Clustering to solve classifi
 
 ---
 ## File descriptions:
+* **Image**： folder containing images used in README and .ipynb
+* **Data**: Folders containing all data files used in this module
 * **K Means Clustering.ipynb**
     - Introduction of K means clustering and alogrithm
     - Building K Means Clustering algorithm from scratch
