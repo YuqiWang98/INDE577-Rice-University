@@ -3,7 +3,7 @@
 This sub-repository mainly focuses on using Gradient Descent to solve regression problems.
 
 ---
-[image](https://miro.medium.com/max/1200/1*iNPHcCxIvcm7RwkRaMTx1g.jpeg)
+![image](https://miro.medium.com/max/1200/1*iNPHcCxIvcm7RwkRaMTx1g.jpeg)
 
 ---
 ## File description
