@@ -5,9 +5,9 @@
 
 ---
 ### Contents of K Nearest Neighbors (KNN)
-*Introduction of K Nearest Neighbors algorithm
-*Building KNN algorithm from scratch and performing KNN using Hawks Dataset to classify the hawks species
-*Compare the built algorithm with the KNeighborsClassifier from sklearn
+* Introduction of K Nearest Neighbors algorithm
+* Building KNN algorithm from scratch and performing KNN using Hawks Dataset to classify the hawks species
+* Compare the built algorithm with the KNeighborsClassifier from sklearn
 
 ---
 ### Dataset:
