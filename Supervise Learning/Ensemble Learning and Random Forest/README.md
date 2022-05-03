@@ -1,7 +1,7 @@
 ## Ensemble Learning and Random Forest
 
 ---
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2021%2F08%2Fensemble-stacking-for-machine-learning-and-deep-learning%2F&psig=AOvVaw1189ZsG9fZ0V53oFZSqPtE&ust=1651628681789000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDWv8aawvcCFQAAAAAdAAAAABAz)
+![image](https://editor.analyticsvidhya.com/uploads/27473ensemble.png)
 
 ---
 This sub-repository mainly focuses on using Ensemble Learning algorithms (including Random Forest) to solve classification problems.
