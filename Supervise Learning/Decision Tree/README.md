@@ -6,12 +6,15 @@
 This sub-repository mainly focuses on using Decision Tree Algorithm to solve classification problems.
 
 ---
-**Decision Tree.ipynb**: Jupyter notebook file containing
-* Definition of the Decision Tree
-* Performing the decision tree algorithm 
-* Advantages and Disavantages of decision tree
-* Using confusion matrix to evaluate the algorithm
-* Code and Applications on data set
+### File descriptions
+* **Image**： folder containing images used in README and .ipynb
+* **Data**: Folders containing all data files used in this module
+* **Decision Tree.ipynb**: Jupyter notebook file containing
+    - Definition of the Decision Tree
+    -Performing the decision tree algorithm 
+    -Advantages and Disavantages of decision tree
+    -Using confusion matrix to evaluate the algorithm
+    -Code and Applications on data set
 
 ---
 
