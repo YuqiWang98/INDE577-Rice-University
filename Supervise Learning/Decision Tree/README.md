@@ -12,7 +12,6 @@ This sub-repository mainly focuses on using Decision Tree Algorithm to solve cla
 ---
 
 ## Datasets used in applications
-* Personal Key Indicators of Heart Disease:
 
-  The dataset contains 18 variables (9 booleans, 5 strings and 4 decimals). In machine learning projects, "HeartDisease" can be used as the explonatory variable, but note that the classes are heavily unbalanced.
-
+**Penguins Dataset**:
+The Penguins Dataset contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica. These data were collected from 2007 - 2009 by Dr. Kristen Gorman's team. It consists of 344 rows and 7 columns. The three different species of penguins are Chinstrap, Adélie, and Gentoo penguins.
