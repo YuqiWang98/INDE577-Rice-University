@@ -3,7 +3,7 @@
 This sub-repository mainly focuses on using Logistic Regreesion algorithm to solve classification problems.
 
 ---
-![images]()
+![images](https://miro.medium.com/max/602/1*BrLF7ySJ_6Lfw2IXmNjsXQ.png)
 
 ---
 ## File Descriptions
