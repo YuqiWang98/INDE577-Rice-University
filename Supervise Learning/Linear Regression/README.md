@@ -4,7 +4,7 @@
 
 ---
 ### File descriptions
-* **Image**： folder containing images used in README
+* **Image**： folder containing images used in README and .ipynb
 * **Data**: Folders containing all data files used in this module
 * **Linear_Regression.ipynb**:
 * Introduction of linear regression and Algorithm
