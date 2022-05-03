@@ -7,6 +7,8 @@ This sub-repository mainly focuses on using Logistic Regreesion algorithm to sol
 
 ---
 ## File Descriptions
+* **Image**： folder containing images used in README and .ipynb
+* **Data**: Folders containing all data files used in this module
 * **Logistic_Regression.ipynb**
   -  Introduction of Logistic Regression algorithm
   -  Building Logistic Regression algorithm from scratch 
