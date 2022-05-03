@@ -1,4 +1,4 @@
-[!image](https://miro.medium.com/max/600/0*_tilFpFsmvouNKvw)
+![image](https://miro.medium.com/max/600/0*_tilFpFsmvouNKvw)
 ## Ensemble Learning and Random Forest
 ---
 This sub-repository mainly focuses on using Ensemble Learning algorithms (including Random Forest) to solve classification problems.
