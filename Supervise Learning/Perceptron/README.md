@@ -3,7 +3,7 @@
 This sub-repository mainly focuses on using Perceptron algorithm to solve classification problems.
 
 ---
-![image] (https://starship-knowledge.com/wp-content/uploads/2020/10/Perceptrons-1024x724.jpeg)
+![image](https://starship-knowledge.com/wp-content/uploads/2020/10/Perceptrons-1024x724.jpeg)
 
 ---
 ## File discriptions:
