@@ -1,7 +1,11 @@
-![image](https://regenerativetoday.com/wp-content/uploads/2022/04/dt.png)
+
 ## Decision Tree
+
+---
+![image](https://regenerativetoday.com/wp-content/uploads/2022/04/dt.png)
 This sub-repository mainly focuses on using Decision Tree Algorithm to solve classification problems.
 
+---
 **Decision Tree.ipynb**: Jupyter notebook file containing
 * Definition of the Decision Tree
 * Performing the decision tree algorithm 
