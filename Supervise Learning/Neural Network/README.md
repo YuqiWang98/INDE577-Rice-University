@@ -3,7 +3,7 @@
 This sub-repository mainly focuses on using Multilayer Perceptron Learning Algorithm on images to predict the labels.
 
 --
-![image](
+![image](https://media.geeksforgeeks.org/wp-content/uploads/20200702205951/nn.PNG)
 
 ---
 ## File Descriptions:
