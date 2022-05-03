@@ -7,6 +7,8 @@ This sub-repository mainly focuses on using Multilayer Perceptron Learning Algor
 
 ---
 ## File Descriptions:
+* **Image**： folder containing images used in README and .ipynb
+* **Data**: Folders containing all data files used in this module
 * **Neutral_Network.ipynb**:
    - Introduction of the perceptron algorithm
    - Advantages and Disadvantages of Multilayer Neural Network
