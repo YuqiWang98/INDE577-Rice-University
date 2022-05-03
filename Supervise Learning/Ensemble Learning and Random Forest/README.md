@@ -9,9 +9,14 @@ This sub-repository mainly focuses on using Ensemble Learning algorithms (includ
 ---
 ### Contents of Ensemble_learning_and_Random_Forest.ipynp:
 * Introduction
+* Algorithm
  * Ensemble Learning
  * Random Forest
+* Advantages and Disadvantages 
 * Application in Dataset
+ * Ensemble Learning
+ * Bootstrap aggregating with Decision Trees
+ * Random Forest
 
 ---
 ### Datasets
