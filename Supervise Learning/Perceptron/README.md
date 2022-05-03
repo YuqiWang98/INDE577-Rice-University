@@ -7,6 +7,8 @@ This sub-repository mainly focuses on using Perceptron algorithm to solve classi
 
 ---
 ## File discriptions:
+* **Image**： folder containing images used in README and .ipynb
+* **Data**: Folders containing all data files used in this module
 * **Perceptron.ipynb**
   - Introduction of the perceptron algorithm
    - Application on data set
