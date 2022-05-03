@@ -1,4 +1,4 @@
-## K means Clustering and Priciple Component Analysis
+## K means Clustering and Principle Component Analysis
 
 This sub-repository mainly focuses on using K Means Clustering to solve classification problems. The Principal Component Analysis (PCA) is used to reduced the dimension of the dataset.
 
