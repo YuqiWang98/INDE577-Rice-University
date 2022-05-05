@@ -7,18 +7,18 @@
 * **Image**： folder containing images used in README and .ipynb
 * **Data**: Folders containing all data files used in this module
 * **k mean clustering and PCA.ipynb**: Jupyter notebook file containing
-      - K-Means clustering
-      - Introduction
-      - Understanding the K-Means Algorithm
-      - Principal Component Analysis (PCA)
-      - Introduction
-      - How PCA works
-      - Mean centering
-      - The first principal component
-      - The second principal component
-      - Two principal components define a model plane
-      - Implement
-      - Application on Data set
+      -  K-Means clustering
+      -  Introduction
+      -  Understanding the K-Means Algorithm
+      -  Principal Component Analysis (PCA)
+      -  Introduction
+      -  How PCA works
+      -  Mean centering
+      -  The first principal component
+      -  The second principal component
+      -  Two principal components define a model plane
+      -  Implement
+      -  Application on Data set
 
 
 
