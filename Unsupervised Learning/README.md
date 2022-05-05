@@ -3,8 +3,10 @@
 ![image](https://miro.medium.com/max/960/1*31iqrQyCqIuuGPLUK_BjMQ.png)
 
 ---
-## File discription:
-* 
+### File descriptions
+* **Image**： folder containing images used in README and .ipynb
+* **Data**: Folders containing all data files used in this module
+* **k mean clustering and PCA.ipynb**: Jupyter notebook file containing
 
 
 
