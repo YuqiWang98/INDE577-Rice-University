@@ -8,7 +8,7 @@ Contents of **Supervised Learning**：
 * [Logistic Regression]
 * [Perceptron]
 * [Neuron Network]
-* [Decision Tree]
+* [Decision Tree](https://github.com/YuqiWang98/INDE577-Rice-University/tree/main/Supervise%20Learning/Decision%20Tree)
 * [Ensemble Learning and Random Forest]
 
 
