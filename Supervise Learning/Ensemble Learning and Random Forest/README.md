@@ -12,14 +12,15 @@ This sub-repository mainly focuses on using Ensemble Learning algorithms (includ
 * **Data**: Folders containing all data files used in this module
 * **Ensemble_learning_and_Random_Forest.ipynp**:
 - Introduction
-- Algorithm
-    - Ensemble Learning
-    - Random Forest
-- Advantages and Disadvantages 
-- Application in Dataset
-    - Ensemble Learning
-    - Bootstrap aggregating with Decision Trees
-    - Random Forest
+    - Types of Ensemble Methods
+    - BAGGing, or Bootstrap AGGregating
+    - Random Forest Models
+- Advantages and Disadvantages of Ensemble
+    - Advantages
+    - Disadvantages
+- Summary
+- Implement
+- Application on Data set
 
 ---
 ### Datasets
