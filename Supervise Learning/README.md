@@ -5,7 +5,7 @@ There are nine supervised learning algorithms perfomed in this sub-repository. M
 Contents of **Supervised Learning**：
 * [K Nearest Neighbors (KNN)](https://github.com/YuqiWang98/INDE577-Rice-University/tree/main/Supervise%20Learning/K%20Nearest%20Neighbors(KNN))
 * [Linear Regression](https://github.com/YuqiWang98/INDE577-Rice-University/tree/main/Supervise%20Learning/Linear%20Regression)
-* [Logistic Regression]
+* [Logistic Regression](https://github.com/YuqiWang98/INDE577-Rice-University/tree/main/Supervise%20Learning/Logistic%20Regression)
 * [Perceptron]
 * [Neuron Network]
 * [Decision Tree](https://github.com/YuqiWang98/INDE577-Rice-University/tree/main/Supervise%20Learning/Decision%20Tree)
