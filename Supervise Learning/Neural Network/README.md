@@ -18,4 +18,5 @@ This sub-repository mainly focuses on using Multilayer Perceptron Learning Algor
 ---
 ## Datasets
 * Fashion MNIST data set
+
 The Fashion MNIST data set (from keras) is a wide-used multi-class image classification dataset. The dataset has 60,000 training data with 28x28 grayscale images and 10,000 test images. Images are labeled over 10 categories. 
