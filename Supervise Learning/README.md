@@ -9,7 +9,7 @@ Contents of **Supervised Learning**：
 * [Perceptron]
 * [Neuron Network]
 * [Decision Tree](https://github.com/YuqiWang98/INDE577-Rice-University/tree/main/Supervise%20Learning/Decision%20Tree)
-* [Ensemble Learning and Random Forest]
+* [Ensemble Learning and Random Forest](https://github.com/YuqiWang98/INDE577-Rice-University/tree/main/Supervise%20Learning/Ensemble%20Learning%20and%20Random%20Forest)
 
 
 
