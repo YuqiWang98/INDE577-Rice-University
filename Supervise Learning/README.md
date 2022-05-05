@@ -3,6 +3,14 @@
 There are nine supervised learning algorithms perfomed in this sub-repository. Most of the algorithms are coded from scratch. Each algorithm is performed in two different datasets, one of which is from the class example. 
 
 Contents of **Supervised Learning**：
+* [K Nearest Neighbors (KNN)]
+* [Linear Regression]
+* [Logistic Regression]
+* [Perceptron]
+* [Neuron Network]
+* [Decision Tree]
+* [Ensemble Learning and Random Forest]
+
 
 
 ---
