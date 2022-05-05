@@ -7,7 +7,7 @@ Contents of **Supervised Learning**：
 * [Linear Regression](https://github.com/YuqiWang98/INDE577-Rice-University/tree/main/Supervise%20Learning/Linear%20Regression)
 * [Logistic Regression](https://github.com/YuqiWang98/INDE577-Rice-University/tree/main/Supervise%20Learning/Logistic%20Regression)
 * [Perceptron]
-* [Neuron Network]
+* [Neuron Network](https://github.com/YuqiWang98/INDE577-Rice-University/tree/main/Supervise%20Learning/Neural%20Network)
 * [Decision Tree](https://github.com/YuqiWang98/INDE577-Rice-University/tree/main/Supervise%20Learning/Decision%20Tree)
 * [Ensemble Learning and Random Forest](https://github.com/YuqiWang98/INDE577-Rice-University/tree/main/Supervise%20Learning/Ensemble%20Learning%20and%20Random%20Forest)
 
