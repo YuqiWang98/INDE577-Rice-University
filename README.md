@@ -23,9 +23,6 @@ This GitHub repository is a collection of the projects in the course, INDE 577: 
 * Unsupervised Learning:
   * k-Means Clustering
   * Principal Component Analysis
-* Optimization methods
-  * Gradient Descent
-* Model Comparison
 ---
 ## Course Instructor
 Dr. Randy R. Davila, associate professor of University of Houston-Downtown. [Email](rrd6@rice.edu).
